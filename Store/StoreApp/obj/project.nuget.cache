@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zwxe7XgdT4XCqt6b6jp0gTS2Pe2ugdQ5S0dr7i4Nk/7yBeqUPY+dLPAC6QGU88DhLsRR0770/nK6F9GBkFW4OQ==",
+  "success": true,
+  "projectFilePath": "D:\\ASPNETCore\\Store\\StoreApp\\StoreApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bunyaminn\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\bunyaminn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\bunyaminn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\bunyaminn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
