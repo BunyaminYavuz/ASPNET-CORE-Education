@@ -10,21 +10,23 @@
 </head>
 
 <body>
-        <div class="container mt-4">
-    <h2>Product List</h2>
-    <div class="row">
-        @foreach (var product in Model) {
-            <div class="col-md-4 mb-4">
-                <div class="card h-100">
-                    <div class="card-body">
-                        <h5 class="card-title">@product.ProductName</h5>
-                        <p class="card-text">Price: @product.Price.ToString("C")</p>
+    <div class="container mt-4">
+        <h2>Product List</h2>
+        <div class="row">
+            @foreach (var product in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5 class="card-title">@product.ProductName</h5>
+                            <p class="card-text">Price: @product.Price.ToString("C")</p>
+                            <a href="/Product/Get/@product.ProductId">See details</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-        }
+            }
+        </div>
     </div>
-</div>
 </body>
 
 </html>
