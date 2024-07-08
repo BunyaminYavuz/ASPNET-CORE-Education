@@ -1,8 +1,12 @@
 @model Product
 
-<div>
-    <h2>@Model.ProductName</h2>
-    <p>@Model.Price.ToString("C")</p>
-    <a asp-action="Get" asp-route-id="@Model.ProductId">See details</a>
-    <hr>
+<div class="card" style="width: 18rem;">
+    <img src="..." class="card-img-top" alt="...">
+    <div class="card-body">
+        <h5 class="card-title">@Model.ProductName</h5>
+        <p class="card-text">@Model.Price.ToString("C")</p>
+        <a asp-action="Get" asp-route-id="@Model.ProductId" class="btn btn-primary"><i
+                class="fa-solid fa-arrow-right"></i>
+            See details</a>
+    </div>
 </div>

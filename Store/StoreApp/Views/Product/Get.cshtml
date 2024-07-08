@@ -5,4 +5,10 @@
 
 <h2>@Model.ProductName</h2>
 <h3>@Model.Price</h3>
-<a href="/Product">Back to Products</a>
+
+<div class="btn-group">
+    <a asp-controller="Home" asp-action="Index" class="btn btn-primary"><i class="fa-solid fa-house"></i>
+        Home</a>
+    <a asp-controller="Product" asp-action="Index" class="btn btn-outline-primary"><i class="fa-solid fa-list"></i>
+        Products</a>
+</div>
