@@ -6,13 +6,5 @@
 
 @foreach (Product product in Model)
 {
-    <div class="col-md-4 mb-4">
-        <div class="card h-100">
-            <div class="card-body">
-                <h5 class="card-title">@product.ProductName</h5>
-                <p class="card-text">Price: @product.Price.ToString("C")</p>
-                <a href="/Product/Get/@product.ProductId">See details</a>
-            </div>
-        </div>
-    </div>
+    <partial name="_ProductCard" model="@product"/>
 }
