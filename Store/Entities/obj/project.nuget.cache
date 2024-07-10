@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LyuMqfGcVtxjKabo6v0hzSeZLfMHCVvZVCbYU3XYb1vuQPwdkIGWWbfwzy7MVvtZrwEibLzh63v+YIyRHArhkw==",
+  "success": true,
+  "projectFilePath": "D:\\ASPNETCore\\Store\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bunyaminn\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\bunyaminn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\bunyaminn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

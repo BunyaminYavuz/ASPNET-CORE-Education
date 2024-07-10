@@ -56,3 +56,5 @@ D:\ASPNETCore\Store\StoreApp\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.
 D:\ASPNETCore\Store\StoreApp\obj\Debug\net6.0\StoreApp.csproj.CopyComplete
 D:\ASPNETCore\Store\StoreApp\bin\Debug\net6.0\libman.json
 D:\ASPNETCore\Store\StoreApp\bin\Debug\net6.0\StoreApp.staticwebassets.runtime.json
+D:\ASPNETCore\Store\StoreApp\bin\Debug\net6.0\Entities.dll
+D:\ASPNETCore\Store\StoreApp\bin\Debug\net6.0\Entities.pdb

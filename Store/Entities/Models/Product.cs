@@ -1,4 +1,4 @@
-namespace StoreApp.Models
+﻿namespace Entities.Models
 {
     public class Product
     {
@@ -7,3 +7,4 @@ namespace StoreApp.Models
         public decimal Price { get; set; }
     }
 }
+

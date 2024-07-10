@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using StoreApp.Models;
+using Entities.Models;
 
 namespace StoreApp.Controllers
 {
