@@ -558,6 +558,21 @@
         "runtime": {
           "bin/placeholder/Entities.dll": {}
         }
+      },
+      "Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Entities": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.0",
+          "Microsoft.EntityFrameworkCore.Sqlite": "6.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repositories.dll": {}
+        }
       }
     }
   },
@@ -1223,14 +1238,18 @@
       "type": "project",
       "path": "../Entities/Entities.csproj",
       "msbuildProject": "../Entities/Entities.csproj"
+    },
+    "Repositories/1.0.0": {
+      "type": "project",
+      "path": "../Repositories/Repositories.csproj",
+      "msbuildProject": "../Repositories/Repositories.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Entities >= 1.0.0",
-      "Microsoft.EntityFrameworkCore >= 6.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.0",
-      "Microsoft.EntityFrameworkCore.Sqlite >= 6.0.0"
+      "Repositories >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1260,6 +1279,9 @@
           "projectReferences": {
             "D:\\ASPNETCore\\Store\\Entities\\Entities.csproj": {
               "projectPath": "D:\\ASPNETCore\\Store\\Entities\\Entities.csproj"
+            },
+            "D:\\ASPNETCore\\Store\\Repositories\\Repositories.csproj": {
+              "projectPath": "D:\\ASPNETCore\\Store\\Repositories\\Repositories.csproj"
             }
           }
         }
@@ -1274,17 +1296,9 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[6.0.0, )"
-          },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
             "suppressParent": "All",
-            "target": "Package",
-            "version": "[6.0.0, )"
-          },
-          "Microsoft.EntityFrameworkCore.Sqlite": {
             "target": "Package",
             "version": "[6.0.0, )"
           }

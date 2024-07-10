@@ -1,0 +1,16 @@
+D:\ASPNETCore\Store\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\ASPNETCore\Store\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\ASPNETCore\Store\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\ASPNETCore\Store\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\ASPNETCore\Store\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASPNETCore\Store\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\ASPNETCore\Store\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\ASPNETCore\Store\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\ASPNETCore\Store\Repositories\obj\Debug\net6.0\Repositories.sourcelink.json
+D:\ASPNETCore\Store\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\ASPNETCore\Store\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\ASPNETCore\Store\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\ASPNETCore\Store\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\ASPNETCore\Store\Repositories\bin\Debug\net6.0\Entities.dll
+D:\ASPNETCore\Store\Repositories\bin\Debug\net6.0\Entities.pdb
+D:\ASPNETCore\Store\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete

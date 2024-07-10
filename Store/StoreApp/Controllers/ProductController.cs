@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
-using StoreApp.Models;
 using Entities.Models;
+using Repositories;
 
 namespace StoreApp.Controllers
 {
