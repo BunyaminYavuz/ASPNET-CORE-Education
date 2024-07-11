@@ -1,0 +1,17 @@
+@model IEnumerable<Category>
+
+<h2>Categories</h2>
+
+<div class="row">
+    @foreach (var category in Model)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4 shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">@category.CategoryId</h5>
+                    <p class="card-text">@category.CategoryName</p>
+                </div>
+            </div>
+        </div>
+    }
+</div>
