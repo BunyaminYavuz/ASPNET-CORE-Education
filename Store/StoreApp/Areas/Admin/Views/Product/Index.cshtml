@@ -1,1 +1,43 @@
-<h1>Product Index</h1>
+@model IEnumerable<Product>
+<div class="container">
+    <h2 class="text-center mt-4 mb-4">Product List</h2>
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th class="text-center">ID</th>
+                    <th class="text-center">Name</th>
+                    <th class="text-center">Price</th>
+                    <th class="text-center">Operations</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Product product in Model)
+                {
+                    <tr>
+                        <td class="text-center">@product.ProductId</td>
+                        <td class="text-center">@product.ProductName</td>
+                        <td class="text-center">@product.Price.ToString("c")</td>
+                        <td class="text-center">
+                            <div class="btn-group btn-block">
+                                <button class="btn btn-warning btn-block">
+                                    <i class="fa fa-edit"></i>
+                                    Edit
+                                </button>
+                                <button class="btn btn-danger btn-block">
+                                    <i class="fa fa-trash"></i>
+                                    Delete
+                                </button>
+                                <button class="btn btn-info btn-block">
+                                    <i class="fa fa-eye"></i>
+                                    View
+                                </button>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
