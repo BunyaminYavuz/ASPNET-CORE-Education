@@ -3,10 +3,11 @@
 <div class="container">
     <h2 class="text-center mt-4 mb-4">Create Product</h2>
 
-    <form method="post" asp-action="Create" class="needs-validation" novalidate>
+    <form method="post" asp-action="Create">
+        <div class="text-danger" asp-validation-summary="All"></div>
         <div class="form-group">
             <label asp-for="ProductName"></label>
-            <input type="text" class="form-control"  asp-for="ProductName" placeholder="Enter product name" />
+            <input type="text" class="form-control" asp-for="ProductName" placeholder="Enter product name" />
         </div>
         <div class="form-group">
             <label asp-for="Price"></label>
