@@ -1,4 +1,7 @@
+using Entities.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.VisualBasic;
 using Services.Contracts;
 
 namespace StoreApp.Areas.Admin.Controllers
@@ -17,6 +20,19 @@ namespace StoreApp.Areas.Admin.Controllers
         {
             var products = _manager.ProductService.GetAllProducts(false);
             return View(products);
+        }
+
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Create([FromForm] Product product)
+        {
+            _manager.ProductService.CreateOneProduct(product);
+            return RedirectToAction("Index");
         }
     }
 }
