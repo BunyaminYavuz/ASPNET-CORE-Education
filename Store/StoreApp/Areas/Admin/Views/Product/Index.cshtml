@@ -27,18 +27,18 @@
                         <td class="text-center">@product.Price.ToString("c")</td>
                         <td class="text-center">
                             <div class="btn-group btn-block">
-                                <button class="btn btn-warning btn-block">
+                                <a asp-action="Update" asp-route-id="@product.ProductId" class="btn btn-warning btn-block">
                                     <i class="fa fa-edit"></i>
                                     Edit
-                                </button>
+                                </a>
                                 <button class="btn btn-danger btn-block">
                                     <i class="fa fa-trash"></i>
                                     Delete
                                 </button>
-                                <button class="btn btn-info btn-block">
+                                <a target="_blank" class="btn btn-info btn-block" asp-action="Get" asp-controller="Product" asp-area="Product" asp-route-id="@product.ProductId">
                                     <i class="fa fa-eye"></i>
                                     View
-                                </button>
+                                </a>
                             </div>
                         </td>
                     </tr>
