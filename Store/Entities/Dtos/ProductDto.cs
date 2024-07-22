@@ -14,6 +14,10 @@ namespace Entities.Dtos
         [Range(0.01, double.MaxValue, ErrorMessage = "Price must be greater than 0.")]
         public decimal Price { get; init; }
 
+        public String? Summary { get; set; } = String.Empty;
+
+        public String? ImageUrl { get; set; }
+
         public int? CategoryId { get; init; }
 
     }
