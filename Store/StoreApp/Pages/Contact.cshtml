@@ -1,0 +1,72 @@
+@page "/getintouch"
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha384-k6RqeWeci5ZR/Lv4MR0sA0FfDOMht/RPxOHjFnlHhLvByDU0s9dH9/fS8KXr25uH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        .rounded-circle {
+            border-radius: 50%;
+        }
+        #map {
+            height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div class="text-center my-5">
+        <div class="display-6 border-bottom pb-3">Contact Us</div>
+        <div class="lead mt-5">
+            <div class="my-4">
+                <i class="fa fa-phone bg-secondary text-white p-3 rounded-circle"></i>
+                <p class="mt-3">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                </p>
+            </div>
+            <div class="my-4">
+                <i class="fa-solid fa-address-book bg-secondary text-white p-3 rounded-circle"></i>
+                <p class="mt-3">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut, blanditiis dolorem, eveniet itaque odio laborum doloremque reiciendis laboriosam dolorum tempore optio qui maiores voluptates sapiente dolor labore assumenda. Culpa, commodi.
+                    Officia vel deserunt velit mollitia neque aut possimus perferendis. Eos nihil est aperiam labore similique at deleniti harum repellat eaque, reiciendis doloremque quos voluptatum earum consectetur amet nemo illum optio?
+                </p>
+            </div>
+            <div class="my-4">
+                <i class="fa-solid fa-envelope bg-secondary text-white p-3 rounded-circle"></i>
+                <p class="mt-3">
+                    Lorem ipsum dolor
+                </p>
+            </div>
+            <div class="my-4">
+                <div class="border p-3 rounded">
+                    <div id="map"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var map = L.map('map').setView([51.505, -0.09], 13); // Default view set to London
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap contributors'
+            }).addTo(map);
+
+            var lat = (Math.random() * 180) - 90;  // Random latitude between -90 and 90
+            var lng = (Math.random() * 360) - 180; // Random longitude between -180 and 180
+            var randomLocation = [lat, lng];
+
+            map.setView(randomLocation, 3);
+
+            L.marker(randomLocation).addTo(map)
+                .bindPopup('Random Location')
+                .openPopup();
+        });
+    </script>
+</body>
+</html>
