@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Ud39wDIFsopYZb3sk2tuchHph8a/V4AGkuOmghapm5YE2t66ddifFmX0ViTtTbRMi+tdwsQLWvp5LbVaT2Hkg==",
+  "dgSpecHash": "PBeGRWSr65GdtXoRTkN1yYVmUzAUNU4TF+r9vdaE8mssBK0/1KzDleJZjef8q7fUvAqZ4FznXV1mD/dl+ebK0A==",
   "success": true,
-  "projectFilePath": "D:\\ASPNETCore\\Store\\Services\\Services.csproj",
+  "projectFilePath": "d:\\ASPNETCore\\Store\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bunyaminn\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\bunyaminn\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -35,9 +35,9 @@
     "C:\\Users\\bunyaminn\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\bunyaminn\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\bunyaminn\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\bunyaminn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
     "C:\\Users\\bunyaminn\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "C:\\Users\\bunyaminn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512"
+    "C:\\Users\\bunyaminn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\bunyaminn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
   ],
   "logs": []
 }

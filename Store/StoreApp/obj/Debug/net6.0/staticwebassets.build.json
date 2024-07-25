@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yhGeNDFE3n6l+HlMrmtGldMm8SBcO5yIP88uH7beXSM=",
+  "Hash": "2O9sVCVbbs94GUQGXRxCg67Uyl7Qt//fbn4qkS4J6Ik=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
@@ -17,7 +17,7 @@
   ],
   "Assets": [
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\css\\site.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\css\\site.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -34,7 +34,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\html\\Error.html",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\html\\Error.html",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -51,7 +51,7 @@
       "OriginalItemSpec": "wwwroot\\html\\Error.html"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\1.jpg",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\1.jpg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -68,7 +68,7 @@
       "OriginalItemSpec": "wwwroot\\images\\1.jpg"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\2.jpg",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\2.jpg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -85,7 +85,7 @@
       "OriginalItemSpec": "wwwroot\\images\\2.jpg"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\3.jpg",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\3.jpg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -102,7 +102,7 @@
       "OriginalItemSpec": "wwwroot\\images\\3.jpg"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\4.jpg",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\4.jpg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -119,7 +119,7 @@
       "OriginalItemSpec": "wwwroot\\images\\4.jpg"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\5.jpg",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\5.jpg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -136,7 +136,7 @@
       "OriginalItemSpec": "wwwroot\\images\\5.jpg"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\6.jpg",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\6.jpg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -153,7 +153,7 @@
       "OriginalItemSpec": "wwwroot\\images\\6.jpg"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\7.jpg",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\7.jpg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -170,7 +170,7 @@
       "OriginalItemSpec": "wwwroot\\images\\7.jpg"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\8.jpg",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\8.jpg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -187,7 +187,7 @@
       "OriginalItemSpec": "wwwroot\\images\\8.jpg"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\default.png",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\images\\default.png",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -204,7 +204,7 @@
       "OriginalItemSpec": "wwwroot\\images\\default.png"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\js\\site.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\js\\site.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -221,7 +221,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -238,7 +238,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -255,7 +255,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -272,7 +272,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -289,7 +289,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -306,7 +306,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -323,7 +323,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -340,7 +340,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -357,7 +357,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -374,7 +374,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -391,7 +391,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -408,7 +408,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -425,7 +425,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -442,7 +442,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -459,7 +459,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -476,7 +476,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -493,7 +493,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -510,7 +510,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -527,7 +527,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -544,7 +544,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -561,7 +561,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -578,7 +578,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -595,7 +595,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -612,7 +612,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -629,7 +629,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -646,7 +646,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -663,7 +663,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -680,7 +680,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -697,7 +697,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -714,7 +714,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -731,7 +731,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -748,7 +748,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -765,7 +765,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -782,7 +782,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -799,7 +799,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -816,7 +816,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -833,7 +833,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -850,7 +850,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -867,7 +867,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -884,7 +884,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -901,7 +901,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -918,7 +918,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -935,7 +935,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -952,7 +952,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -969,7 +969,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_accordion.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -986,7 +986,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_alert.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1003,7 +1003,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_badge.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1020,7 +1020,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1037,7 +1037,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_button-group.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1054,7 +1054,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_buttons.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1071,7 +1071,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_card.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1088,7 +1088,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_carousel.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1105,7 +1105,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_close.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1122,7 +1122,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_containers.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1139,7 +1139,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1156,7 +1156,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_forms.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1173,7 +1173,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_functions.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1190,7 +1190,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_grid.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1207,7 +1207,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_helpers.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1224,7 +1224,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_images.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1241,7 +1241,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_list-group.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1258,7 +1258,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_maps.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1275,7 +1275,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_maps.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_mixins.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1292,7 +1292,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_modal.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1309,7 +1309,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_nav.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1326,7 +1326,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_navbar.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1343,7 +1343,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1360,7 +1360,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_pagination.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1377,7 +1377,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1394,7 +1394,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_placeholders.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_popover.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1411,7 +1411,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_progress.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1428,7 +1428,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_reboot.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1445,7 +1445,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_root.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1462,7 +1462,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_spinners.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1479,7 +1479,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_tables.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1496,7 +1496,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_toasts.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1513,7 +1513,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1530,7 +1530,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_transitions.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1547,7 +1547,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_type.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1564,7 +1564,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_utilities.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1581,7 +1581,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1598,7 +1598,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_variables-dark.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\_variables.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1615,7 +1615,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1632,7 +1632,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1649,7 +1649,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1666,7 +1666,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1683,7 +1683,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1700,7 +1700,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1717,7 +1717,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1734,7 +1734,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1751,7 +1751,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1768,7 +1768,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1785,7 +1785,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1802,7 +1802,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1819,7 +1819,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1836,7 +1836,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1853,7 +1853,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1870,7 +1870,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_color-bg.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1887,7 +1887,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1904,7 +1904,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_focus-ring.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1921,7 +1921,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_icon-link.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1938,7 +1938,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1955,7 +1955,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1972,7 +1972,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_stacks.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -1989,7 +1989,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2006,7 +2006,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2023,7 +2023,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2040,7 +2040,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\helpers\\_vr.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2057,7 +2057,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2074,7 +2074,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_backdrop.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2091,7 +2091,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_banner.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2108,7 +2108,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2125,7 +2125,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2142,7 +2142,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2159,7 +2159,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2176,7 +2176,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2193,7 +2193,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2210,7 +2210,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-mode.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2227,7 +2227,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2244,7 +2244,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2261,7 +2261,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2278,7 +2278,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2295,7 +2295,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2312,7 +2312,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2329,7 +2329,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2346,7 +2346,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2363,7 +2363,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2380,7 +2380,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2397,7 +2397,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2414,7 +2414,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2431,7 +2431,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2448,7 +2448,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2465,7 +2465,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2482,7 +2482,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2499,7 +2499,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2516,7 +2516,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2533,7 +2533,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\all.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\all.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2550,7 +2550,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\all.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\all.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2567,7 +2567,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\all.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\brands.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\brands.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2584,7 +2584,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\brands.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\brands.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2601,7 +2601,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\brands.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2618,7 +2618,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\fontawesome.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2635,7 +2635,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\regular.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\regular.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2652,7 +2652,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\regular.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\regular.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2669,7 +2669,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\regular.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\solid.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\solid.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2686,7 +2686,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\solid.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\solid.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2703,7 +2703,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\solid.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2720,7 +2720,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\svg-with-js.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2737,7 +2737,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\svg-with-js.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2754,7 +2754,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-font-face.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2771,7 +2771,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-font-face.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2788,7 +2788,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-shims.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2805,7 +2805,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v4-shims.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2822,7 +2822,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v5-font-face.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2839,7 +2839,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\css\\v5-font-face.min.css"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\all.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\all.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2856,7 +2856,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\all.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\all.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2873,7 +2873,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\all.min.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\brands.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\brands.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2890,7 +2890,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\brands.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\brands.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2907,7 +2907,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\brands.min.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2924,7 +2924,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\conflict-detection.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2941,7 +2941,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\conflict-detection.min.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2958,7 +2958,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\fontawesome.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2975,7 +2975,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\fontawesome.min.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\regular.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\regular.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -2992,7 +2992,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\regular.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\regular.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3009,7 +3009,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\regular.min.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\solid.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\solid.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3026,7 +3026,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\solid.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\solid.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3043,7 +3043,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\solid.min.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3060,7 +3060,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\v4-shims.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3077,7 +3077,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\js\\v4-shims.min.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\sprites\\brands.svg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3094,7 +3094,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\brands.svg"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\sprites\\regular.svg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3111,7 +3111,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\regular.svg"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\sprites\\solid.svg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3128,7 +3128,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\sprites\\solid.svg"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3145,7 +3145,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3162,7 +3162,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3179,7 +3179,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3196,7 +3196,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3213,7 +3213,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3230,7 +3230,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3247,7 +3247,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3264,7 +3264,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\font-awesome\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3281,7 +3281,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.min.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3298,7 +3298,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.min.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.min.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3315,7 +3315,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.min.map"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.slim.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.slim.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3332,7 +3332,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.slim.min.js",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
@@ -3349,7 +3349,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\jquery.slim.min.js"
     },
     {
-      "Identity": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
+      "Identity": "d:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\lib\\jquery\\jquery.slim.min.map",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\ASPNETCore\\Store\\StoreApp\\wwwroot\\",
