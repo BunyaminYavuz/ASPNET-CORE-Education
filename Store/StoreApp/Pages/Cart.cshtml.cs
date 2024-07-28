@@ -8,15 +8,16 @@ namespace StoreApp.Pages
     public class CartModel : PageModel
     {
         private readonly IServiceManager _manager;
+        public Cart Cart { get; set; } // IoC
+        public String ReturnUrl { get; set; } = "/";
 
-        public CartModel(IServiceManager manager)
+        public CartModel(IServiceManager manager, Cart cart)
         {
             _manager = manager;
+            Cart = cart;
         }
 
-        public Cart Cart { get; set; } // IoC
 
-        public String ReturnUrl { get; set; } = "/";
         public void OnGet(string returnUrl)
         {
             ReturnUrl = returnUrl ?? "/";
@@ -32,14 +33,10 @@ namespace StoreApp.Pages
             return Page();
         }
 
-        public IActionResult OnPostRemove(int productId, string returnUrl)
+        public IActionResult OnPostRemove(int id, string returnUrl)
         {
-            Product? product = Cart.Lines.First(cartLine => cartLine.Product.ProductId.Equals(productId)).Product;
-            if (product is not null)
-            {
-                Cart.RemoveLine(product);
-            }
-            return Page();
+            Cart.RemoveLine(Cart.Lines.First(cl => cl.Product.ProductId.Equals(id)).Product);
+            return Page(); 
         }
     }
 }
