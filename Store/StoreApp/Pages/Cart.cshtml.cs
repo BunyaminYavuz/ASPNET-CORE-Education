@@ -11,10 +11,10 @@ namespace StoreApp.Pages
         public Cart Cart { get; set; } // IoC
         public String ReturnUrl { get; set; } = "/";
 
-        public CartModel(IServiceManager manager, Cart cart)
+        public CartModel(IServiceManager manager, Cart cartService)
         {
             _manager = manager;
-            Cart = cart;
+            Cart = cartService;
         }
 
 
@@ -36,7 +36,7 @@ namespace StoreApp.Pages
         public IActionResult OnPostRemove(int id, string returnUrl)
         {
             Cart.RemoveLine(Cart.Lines.First(cl => cl.Product.ProductId.Equals(id)).Product);
-            return Page(); 
+            return Page();
         }
     }
 }

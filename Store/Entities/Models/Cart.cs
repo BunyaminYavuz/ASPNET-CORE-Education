@@ -8,7 +8,7 @@ namespace Entities.Models
             Lines = new List<CartLine>();
         }
 
-        public void AddItem(Product product, int quantity)
+        public virtual void AddItem(Product product, int quantity)
         {
             CartLine? line = Lines.Where(line => line.Product.ProductId.Equals(product.ProductId)).FirstOrDefault();
             if (line is null)
@@ -25,7 +25,7 @@ namespace Entities.Models
             }
         }
 
-        public void RemoveLine(Product product)
+        public virtual void RemoveLine(Product product)
         {
             Lines.RemoveAll(line => line.Product.ProductId.Equals(product.ProductId));
         }
@@ -36,7 +36,7 @@ namespace Entities.Models
             return totalBalance;
         }
 
-        public void Clear()
+        public virtual void Clear()
         {
             Lines.Clear();
         }

@@ -9,9 +9,9 @@
             <h6 class="display-6">
                 @Model.ProductName
             </h6>
-            <img class="img-fluid shadow rounded-3 my-3" src="@Model?.ImageUrl" alt="@Model.ProductName">
-            <p class="lead">@Model.Price.ToString("c")</p>
-            <p>@Model.Summary</p>
+            <img class="img-fluid shadow rounded-3 my-3" src="@Model?.ImageUrl" alt="@Model?.ProductName">
+            <p class="lead">@Model?.Price.ToString("c")</p>
+            <p>@Model?.Summary</p>
             <div class="btn-group">
                 <a asp-controller="Home" asp-action="Index" class="btn btn-primary"><i class="fa-solid fa-house"></i>
                     Home</a>
