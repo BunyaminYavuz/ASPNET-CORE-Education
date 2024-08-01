@@ -13,7 +13,9 @@
         <a class="nav-link disabled" aria-disabled="true">Disabled</a>
       </div>
       <div class="navbar-nav ms-auto">
-        <a class="nav-link" asp-area="" asp-page="/Cart">Cart</a>
+        <a class="nav-link" asp-area="" asp-page="/Cart">
+        <i class="fa-solid fa-cart-shopping"></i>
+        Cart(@await Component.InvokeAsync("CartSummary"))</a>
       </div>
     </div>
   </div>
