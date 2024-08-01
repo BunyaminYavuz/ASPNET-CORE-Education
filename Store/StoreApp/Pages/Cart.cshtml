@@ -23,11 +23,13 @@
                     {
                         <tr>
                             <td class="align-middle text-center">
-                                <img src="@line.Product.ImageUrl" alt="@line.Product.ProductName" class="img-fluid rounded" style="max-width: 50px; max-height: 50px;" />
+                                <img src="@line.Product.ImageUrl" alt="@line.Product.ProductName" class="img-fluid rounded"
+                                    style="max-width: 50px; max-height: 50px;" />
                             </td>
                             <td class="align-middle">@line.Product.ProductName</td>
                             <td class="align-middle">
-                                <input type="number" class="form-control form-control-sm text-center" value="@line.Quantity" min="1" readonly />
+                                <input type="number" class="form-control form-control-sm text-center" value="@line.Quantity"
+                                    min="1" readonly />
                             </td>
                             <td class="align-middle">@line.Product.Price.ToString("c")</td>
                             <td class="align-middle">@((line.Product.Price * line.Quantity).ToString("c2"))</td>
@@ -54,6 +56,16 @@
                     </tr>
                 </tfoot>
             </table>
+        </div>
+    </div>
+    <div class="text-center my-3">
+        <div class="btn btn-group">
+            <a href="@Model.ReturnUrl" class="btn btn-primary">
+                <i class="fa-solid fa-bag-shopping"></i>
+                Continue Shopping</a>
+            <a class="btn btn-outline-primary">
+                <i class="fa-regular fa-credit-card"></i>
+                Checkout</a>
         </div>
     </div>
 </div>
