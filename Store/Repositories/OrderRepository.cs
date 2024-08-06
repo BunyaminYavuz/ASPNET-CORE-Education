@@ -21,7 +21,7 @@ namespace Repositories
 
         public void Complete(int id)
         {
-            var order = FindByCondition(o => o.OrderId.Equals(id), false);
+            var order = FindByCondition(o => o.OrderId.Equals(id), true);
             if (order is null)
                 throw new Exception("Order could not found!");
 

@@ -1,0 +1,47 @@
+@page "{orderId:int}"
+@model CompleteModel
+
+<div class="container mt-4">
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-lg">
+                <div class="card-header text-center bg-success text-white">
+                    <h4 class="card-title">
+                        <i class="fa fa-check-circle"></i> Order Confirmation
+                    </h4>
+                </div>
+                <div class="card-body">
+                    <h5 class="card-title text-center">Thank You for Your Order!</h5>
+                    <p class="card-text text-center">Your order #<strong>@Model.Order.OrderId</strong> has been placed successfully.</p>
+
+                    <hr />
+
+                    <h6 class="card-subtitle mb-2 text-muted">Shipping Information</h6>
+                    <p class="card-text">
+                        <strong>Name:</strong> @Model.Order.Name <br />
+                        <strong>Address:</strong> <br />
+                        @Model.Order.Line1<br />
+                        @if (!string.IsNullOrEmpty(Model.Order.Line2))
+                        {
+                            @Model.Order.Line2
+                            <br />
+                        }
+                        @Model.Order.City
+                    </p>
+
+                    <hr />
+
+                    <h6 class="card-subtitle mb-2 text-muted">Order Details</h6>
+                    <p class="card-text">
+                        <strong>Gift Wrap:</strong> @(Model.Order.GiftWrap ? "Yes" : "No")<br />
+                        <strong>Order Date:</strong> @Model.Order.OrderedAt.ToString("f")
+                    </p>
+
+                    <a class="btn btn-primary btn-block mt-3" asp-controller="Home" asp-action="Index">
+                        <i class="fa fa-home"></i> Return to Store
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
