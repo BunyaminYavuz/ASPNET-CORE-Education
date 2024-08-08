@@ -9,6 +9,7 @@
             <div class="navbar-nav me-auto">
                 <a class="nav-link active" aria-current="page" asp-controller="Dashboard" asp-action="Index">Dashboard</a>
                 <a class="nav-link" asp-controller="Product" asp-action="Index">Products (@await Component.InvokeAsync("ProductSummary"))</a>
+                <a class="nav-link" asp-controller="Order" asp-action="Index">Orders</a>
                 <a class="nav-link" asp-controller="Category" asp-action="Index">Categories</a>
                 <a class="nav-link disabled" aria-disabled="true">Disabled</a>
             </div>
