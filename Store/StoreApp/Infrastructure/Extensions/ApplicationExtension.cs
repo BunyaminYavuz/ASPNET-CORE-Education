@@ -1,3 +1,4 @@
+using System.Globalization;
 using Microsoft.EntityFrameworkCore;
 using Repositories;
 
@@ -16,6 +17,19 @@ namespace StoreApp.Infrastructure.Extensions
             {
                 context.Database.Migrate();
             }
+        }
+
+
+        public static void ConfigureLocalization(this WebApplication app)
+        {
+            app.UseRequestLocalization(options =>
+            {
+                var supportedCultures = new[] { "en-US" };
+                options.SetDefaultCulture(supportedCultures[0])
+                    .AddSupportedCultures(supportedCultures)
+                    .AddSupportedUICultures(supportedCultures);
+            }
+            );
         }
     }
 }

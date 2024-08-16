@@ -18,6 +18,7 @@ builder.Services.AddAutoMapper(typeof(Program));
 
 var app = builder.Build();
 
+
 app.UseStaticFiles();
 app.UseSession();
 
@@ -39,6 +40,7 @@ app.UseEndpoints(endpoints =>
 
 
 app.ConfigureAndCheckMigration();
+app.ConfigureLocalization();
 
 
 app.Run();
