@@ -1,4 +1,5 @@
 using Entities.Models;
+using Entities.RequestParameters;
 
 namespace Repositories.Contracts
 {
@@ -6,6 +7,7 @@ namespace Repositories.Contracts
     {
         IQueryable<Product> GetAllProducts(bool trackChanges);
         IQueryable<Product> GetShowcaseProducts(bool trackChanges);
+        IQueryable<Product> GetAllProductsWithDetails(ProductRequestParameters p);
         Product? GetOneProduct(int id, bool trackChanges);
         void CreateOneProduct(Product product);
         void DeleteOneProduct(Product product);
